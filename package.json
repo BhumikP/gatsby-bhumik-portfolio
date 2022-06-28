@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-dimension-v2",
-  "description": "Gatsby Starter - Dimension V2",
+  "name": "bhumik-portfolio",
+  "description": "Built with GatsBy v4",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Bhumik Prajapati",
   "dependencies": {
     "gatsby": "^4.17.1",
     "gatsby-plugin-manifest": "^4.17.0",
