@@ -11,9 +11,9 @@ const Header = props => (
       <div className="inner">
         <h1>Bhumik Prajapati</h1>
         <p>
-          A passionate Full Stack Software Developer 🚀 <br />
+          A passionate Front-End Software Developer 🚀 <br />
           having an experience of building Web applications with JavaScript /
-          Reactjs / Nodejs <br /> and some other cool libraries and frameworks
+          ReactJs / NextJs <br /> and some other cool libraries and frameworks
         </p>
       </div>
     </div>

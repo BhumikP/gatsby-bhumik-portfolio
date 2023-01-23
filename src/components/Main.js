@@ -30,13 +30,15 @@ const Main = props => {
         <span className="image main">
           <img src={intro_pic} alt="Introduction" />
         </span>
+        <p>Hey all !</p>
         <p>
-          Nam maximus erat id euismod egestas. By the way, check out my{' '}
-          <a href="#work">awesome work</a>.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-          rutrum facilisis.
+          Hey! 😄 My name is Bhumik Prajapati, Self Driven, Quick Starter
+          Passionate Programmer With Curious Mind Focused and enthusiastic
+          developer with a keen interest in software development and
+          Coompetitive Programming. By comprehensive exposure to the underlying
+          concepts and applying them vividly to various projects, my love for
+          these domains came into being. I am a passionate individual who
+          thrives to build and apply algorithms to solve real-world problems.
         </p>
         {close}
       </article>
@@ -114,27 +116,27 @@ const Main = props => {
         <ul className="icons">
           <li>
             <a
-              href="https://twitter.com/HuntaroSan"
+              href="https://twitter.com/BhumikPrajapat1"
               className="icon fa-twitter"
             >
               <span className="label">Twitter</span>
             </a>
           </li>
-          <li>
+          {/* <li>
             <a href="https://codebushi.com" className="icon fa-facebook">
               <span className="label">Facebook</span>
             </a>
-          </li>
+          </li> */}
           <li>
-            <a href="https://codebushi.com" className="icon fa-instagram">
+            <a
+              href="https://www.instagram.com/b__m__p_/"
+              className="icon fa-instagram"
+            >
               <span className="label">Instagram</span>
             </a>
           </li>
           <li>
-            <a
-              href="https://github.com/codebushi/gatsby-starter-dimension"
-              className="icon fa-github"
-            >
+            <a href="https://github.com/BhumikP/" className="icon fa-github">
               <span className="label">GitHub</span>
             </a>
           </li>
